@@ -1,0 +1,16 @@
+﻿<Window x:Class="program2._2_wpf_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:program2._2_wpf_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="День недели" HorizontalAlignment="Left" VerticalAlignment="Top" Height="44" Width="132" Margin="10,10,0,0" FontSize="18"/>
+        <TextBox x:Name="day" HorizontalAlignment="Left" Height="44" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" Margin="209,10,0,0" TextChanged="TextBox_TextChanged" FontSize="18" AutomationProperties.Name="day"/>
+        <Button x:Name="button" Content="Узнать время" HorizontalAlignment="Left" VerticalAlignment="Top" Width="165" Margin="10,81,0,0" Height="53" FontSize="18" AutomationProperties.Name="button" Click="button_Click"/>
+        <TextBox x:Name="time" HorizontalAlignment="Left" Height="53" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" Margin="209,81,0,0" FontSize="18" AutomationProperties.Name="time"/>
+
+    </Grid>
+</Window>
