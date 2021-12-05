@@ -1,0 +1,5 @@
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.3\program3.3\obj\Debug\program3.3.csproj.AssemblyReference.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.3\program3.3\obj\Debug\MainWindow.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.3\program3.3\obj\Debug\App.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.3\program3.3\obj\Debug\program3.3_MarkupCompile.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.3\program3.3\obj\Debug\program3.3_MarkupCompile.lref

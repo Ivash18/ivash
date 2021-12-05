@@ -1,0 +1,20 @@
+﻿<Window x:Class="program3._3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:program3._3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Введите a" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="44" Width="124" FontSize="18"/>
+        <Label Content="Введите b" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,59,0,0" Height="44" Width="124" FontSize="18"/>
+        <Label Content="Введите h" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,108,0,0" Height="44" Width="124" FontSize="18"/>
+        <TextBox x:Name="a" HorizontalAlignment="Left" Height="44" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" Margin="134,10,0,0" FontSize="18" AutomationProperties.Name="a"/>
+        <TextBox x:Name="b" HorizontalAlignment="Left" Height="44" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" Margin="134,59,0,0" FontSize="18" AutomationProperties.Name="b"/>
+        <TextBox x:Name="h" HorizontalAlignment="Left" Height="44" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" Margin="134,108,0,0" FontSize="18" AutomationProperties.Name="h"/>
+        <Button x:Name="button" Content="Ответ" HorizontalAlignment="Left" VerticalAlignment="Top" Width="134" Margin="0,204,0,0" Height="50" AutomationProperties.Name="button" FontSize="18" Click="button_Click"/>
+        <TextBox x:Name="answer" HorizontalAlignment="Left" Height="188" TextWrapping="Wrap" VerticalAlignment="Top" Width="470" Margin="248,190,0,0" FontSize="18" AutomationProperties.Name="answer"/>
+
+    </Grid>
+</Window>
