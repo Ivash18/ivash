@@ -1,0 +1,15 @@
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1.csproj.AssemblyReference.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\MainWindow.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\App.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1_MarkupCompile.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1_MarkupCompile.lref
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\bin\Debug\program3.1.exe.config
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\bin\Debug\program3.1.exe
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\bin\Debug\program3.1.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\MainWindow.baml
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1.g.resources
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3._1.Properties.Resources.resources
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1.csproj.GenerateResource.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1.csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1.exe
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program3.1\program3.1\obj\Debug\program3.1.pdb

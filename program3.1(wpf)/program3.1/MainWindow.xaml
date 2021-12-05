@@ -1,0 +1,16 @@
+﻿<Window x:Class="program3._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:program3._1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Введите трехзначное число" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="240,62,0,0" Width="252" Height="42" FontSize="18"/>
+        <TextBox x:Name="x" HorizontalAlignment="Left" Height="43" TextWrapping="Wrap" VerticalAlignment="Top" Width="252" Margin="240,122,0,0" FontSize="18" AutomationProperties.Name="x"/>
+        <Button x:Name="answer" Content="Результат" HorizontalAlignment="Left" VerticalAlignment="Top" Width="252" Margin="240,200,0,0" Height="51" AutomationProperties.Name="answer" FontSize="18" Click="answer_Click"/>
+        <TextBox x:Name="output" HorizontalAlignment="Left" Height="45" TextWrapping="Wrap" VerticalAlignment="Top" Width="252" Margin="240,297,0,0" FontSize="18" AutomationProperties.Name="output"/>
+
+    </Grid>
+</Window>
