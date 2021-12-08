@@ -1,0 +1,16 @@
+﻿<Window x:Class="program4._2_wpf_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:program4._2_wpf_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Введите число" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="39" Width="144" FontSize="18"/>
+        <TextBox x:Name="n" HorizontalAlignment="Left" Height="39" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" Margin="287,10,0,0" FontSize="18" AutomationProperties.Name="n"/>
+        <Button x:Name="button" Content="Ответ" HorizontalAlignment="Left" VerticalAlignment="Top" Width="188" Margin="10,122,0,0" Height="59" FontSize="18" AutomationProperties.Name="button" Click="button_Click"/>
+        <TextBox x:Name="answer" HorizontalAlignment="Left" Height="287" TextWrapping="Wrap" VerticalAlignment="Top" Width="495" Margin="287,122,0,0" FontSize="18" AutomationProperties.Name="answer"/>
+
+    </Grid>
+</Window>
