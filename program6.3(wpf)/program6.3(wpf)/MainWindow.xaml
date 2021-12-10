@@ -1,0 +1,16 @@
+﻿<Window x:Class="program6._3_wpf_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:program6._3_wpf_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Введите размер квадратной матрицы" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="42" Width="324" FontSize="18"/>
+        <Button x:Name="button" Content="Ответ" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Margin="10,52,0,0" Height="48" AutomationProperties.Name="answer" FontSize="18" Click="button_Click"/>
+        <TextBox x:Name="N" HorizontalAlignment="Left" Height="42" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Margin="375,10,0,0" FontSize="18" AutomationProperties.Name="N"/>
+        <TextBox x:Name="a_Copy" HorizontalAlignment="Left" Height="351" TextWrapping="Wrap" VerticalAlignment="Top" Width="588" Margin="194,58,0,0" FontSize="18" AutomationProperties.Name="a"/>
+
+    </Grid>
+</Window>
