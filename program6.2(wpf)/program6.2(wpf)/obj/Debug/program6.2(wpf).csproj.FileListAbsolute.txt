@@ -1,0 +1,15 @@
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\bin\Debug\program6.2(wpf).exe.config
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\bin\Debug\program6.2(wpf).exe
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\bin\Debug\program6.2(wpf).pdb
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf).csproj.AssemblyReference.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\MainWindow.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\App.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf)_MarkupCompile.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf)_MarkupCompile.lref
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\MainWindow.baml
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf).g.resources
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6._2_wpf_.Properties.Resources.resources
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf).csproj.GenerateResource.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf).csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf).exe
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program6.2(wpf)\program6.2(wpf)\obj\Debug\program6.2(wpf).pdb
