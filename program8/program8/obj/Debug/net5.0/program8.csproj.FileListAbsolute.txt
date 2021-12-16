@@ -1,0 +1,16 @@
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\bin\Debug\net5.0\program8.exe
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\bin\Debug\net5.0\program8.deps.json
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\bin\Debug\net5.0\program8.runtimeconfig.json
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\bin\Debug\net5.0\program8.runtimeconfig.dev.json
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\bin\Debug\net5.0\program8.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\bin\Debug\net5.0\ref\program8.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\bin\Debug\net5.0\program8.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.csproj.AssemblyReference.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.AssemblyInfoInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.AssemblyInfo.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\ref\program8.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program8\program8\obj\Debug\net5.0\program8.genruntimeconfig.cache
