@@ -1,0 +1,16 @@
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\bin\Debug\net5.0\program10.exe
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\bin\Debug\net5.0\program10.deps.json
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\bin\Debug\net5.0\program10.runtimeconfig.json
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\bin\Debug\net5.0\program10.runtimeconfig.dev.json
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\bin\Debug\net5.0\program10.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\bin\Debug\net5.0\ref\program10.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\bin\Debug\net5.0\program10.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.csproj.AssemblyReference.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.AssemblyInfoInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.AssemblyInfo.cs
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\ref\program10.dll
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\рп\program10\program10\obj\Debug\net5.0\program10.genruntimeconfig.cache
